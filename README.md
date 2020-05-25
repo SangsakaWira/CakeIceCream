@@ -1,2 +1,0 @@
-# CakeIceCream
-Created with CodeSandbox
